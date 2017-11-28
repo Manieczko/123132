@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
        przelacznik=findViewById(R.id.switch1);
 
 zmienNazwe(kamol,"tekst");
-
+//......................................................
         kamol.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
 
