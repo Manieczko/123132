@@ -39,8 +39,8 @@ zmienNazwe(kamol,"tekst");
         zmienNazwe(button2,"tekst2");
         button2.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent komunikat2 = (new Intent(MainActivity.this, snieg.class));
-                startActivity(komunikat2);
+                Intent cham2= (new Intent(MainActivity.this, snieg.class));
+                startActivity(cham2);
              }});
 
 
